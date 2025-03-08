@@ -1,0 +1,28 @@
+.direita {
+    float: right;
+    width: 15%;
+    padding: 5px;
+    border-color: rgb(25, 47, 47);
+    border-style: solid;
+    border-width: 5px;
+    background-color: rgba(118, 46, 17, 0.936);
+}
+
+.direita2 {
+    float: none;
+    padding: 1px;
+    width: 64px;
+    height: 64px;
+}
+
+body {
+    background-image: url('https://res.cloudinary.com/dicxg4mme/image/upload/v1741436697/hvzfohzv9zqwl2aowwse.png');
+}
+
+h1,h2,h3 {
+    width: 50%;
+    border-color: rgb(25, 47, 47);
+    border-style: solid;
+    border-width: 5px;
+    background-color: rgba(118, 46, 17, 0.936);
+}

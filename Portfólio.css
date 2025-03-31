@@ -33,6 +33,12 @@ header h1 {
     background-color: var(--primary-color);
 }
 
+.responsive-image{
+    border: 5px solid var(--secondary-color);
+    height: auto;
+    width: 100%;
+}
+
 .profile-box, .contact-box {
     background-color: var(--primary-color);
     border: 5px solid var(--secondary-color);
